@@ -1,1 +1,27 @@
-
+{
+  "services": [
+    {
+      "name": "RaiffeisenSite",
+      "baseURL": "https://oapi.raiffeisen.ru/api/sms-auth/public/v1.0/phone/code/sms",
+      "shouldSetHeaders": true,
+      "headers": {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "ru,en;q=0.9,cy;q=0.8,uz;q=0.7",
+        "Connection": "keep-alive"
+      },
+      "requestParameters": {
+        "captchaToken": "noactualtoken"
+      }
+    },
+    {
+      "name": "SecondSite",
+      "baseURL": "https://auth.mosmetro.ru/api/auth/login/sms",
+      "shouldSetHeaders": false,
+      "headers": null,
+      "requestParameters": {
+        "login": "your_login_parameter",
+        "returnUrl": "///"
+      }
+    }
+  ]
+}
