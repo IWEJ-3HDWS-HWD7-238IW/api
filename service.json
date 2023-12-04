@@ -1,18 +1,4 @@
 {
-    "services": [
-        {
-            "name": "RaiffeisenSite",
-            "baseURL": "https://oapi.raiffeisen.ru/api/sms-auth/public/v1.0/phone/code/sms",
-            "shouldSetHeaders": true,
-            "headers": {
-                "Accept": "application/json",
-                "User-Agent": "///"
-            },
-            "requestParameters": {
-                "captchaToken": "noactualtoken",
-                "number": "$phone"
-            }
-        }
-    ]
+  "lessonTypeId": 6718511,
+  "studentId": 1926125
 }
-
