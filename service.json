@@ -1,16 +1,30 @@
 [
-  "id": 1,
-{
-  "pon": "lol",
-  "title": "lol",
-   "description": "lol",
-   "serveraxyet": "lol",
-   "imageUrl": "lol",
-   "completed": "true",
-   "beta": "true",
-   "new": "false",
-  "soon": "false",
-  "update": "false",
-  "tex": "false"
-}
+    {
+        "id": 1,
+        "pon": "lol",
+        "title": "Stella",
+        "description": "Stella.",
+        "serveraxyet": "https://example.com/api",
+        "imageUrl": "https://example.com/image.png",
+        "completed": true,
+        "beta": false,
+        "new": true,
+        "soon": false,
+        "update": false,
+        "tex": true
+    },
+    {
+        "id": 2,
+        "pon": "lol",
+        "title": "Stella",
+        "description": "Stella",
+        "serveraxyet": "https://anotherexample.com/api",
+        "imageUrl": "https://anotherexample.com/image.png",
+        "completed": false,
+        "beta": true,
+        "new": false,
+        "soon": true,
+        "update": true,
+        "tex": false
+    }
 ]
