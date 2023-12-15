@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "pon": "lol",
+        "pon": "Install",
         "title": "Stella",
         "description": "Stella.",
         "serveraxyet": "https://example.com/api",
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "pon": "lol",
+        "pon": "Install",
         "title": "Stella",
         "description": "Stella",
         "serveraxyet": "https://anotherexample.com/api",
