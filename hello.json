@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Фильм 1",
+        "imageURL": "https://example.com/movie1.jpg",
+        "videoURL": "https://example.com/movie1.mp4"
+    },
+    {
+        "title": "Фильм 2",
+        "imageURL": "https://example.com/movie2.jpg",
+        "videoURL": "https://example.com/movie2.mp4"
+    }
+]
