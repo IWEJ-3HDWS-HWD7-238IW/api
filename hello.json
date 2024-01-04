@@ -1,11 +1,11 @@
 [
     {
-        "title": "Фильм 1",
+        "title": "Чебурашка",
         "imageURL": "https://startimg.ru/unsafe/630x900/filters:quality(70):watermark(6.png,15,-0,0,15,15)/7cd456e9f66e4fa69aad5b095411b0a7/vertical_15x",
         "videoURL": "https://nl03.cdnsqu.com/s/FHaqxn4n0DrzcQSgCtm83xTkFBQUFBT1NVSmtFUlFPT2tRWlEyWTRFPQ.DsxRUxXN90WAt_YUQEbCXhhKUbuQGqCvLnrblg/UHD_090/Po.schuchemu.veleniyu.2023.WEB-DL.1080p_720.mp4"
     },
     {
-        "title": "Фильм 2",
+        "title": "Фильм",
         "imageURL": "https://example.com/movie2.jpg",
         "videoURL": "https://example.com/movie2.mp4"
     }
